@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="br">
+<head>
+    <title>
+        HUAWEI ICT ACADEMY
+    </title>
+
+    <link rel="stylesheet" href="home.pad.css">
+    <head>
+
+        <body>
+       <header>
+        <nav>
+            <a class="logo" href="/home.pad.css"a>
+                <ul class="nav list">
+                <li><a href="/">inicio</a></li>
+                <li><a href="/">horarios</a></li>
+                <li><a href="/">login</a></li>
+                <li><a href="/">projetos</a></li>
+                 </ul>
+
+
+        </nav>
+       </header><main></main>
+
+        </body>
+    </head>
+    <meta name="huawei ict academy" content="academy huawei">
+    <meta name="author" content="aluno huawei">
+    <meta name="lingua" content="html,js,css">
+    <link rel="stylesheet" href="home.pad.css">5
+</head>
+<body>
+   <h1>
+    HUAWEI ACADEMY INTERNAL
+   </h1> 
+   <h2>
+    bem-vindo ao  site da academia huawei
+   <h2>
+<header>
